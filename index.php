@@ -2,7 +2,7 @@
 /**
  * VFM - veno file manager administration
  *
- * PHP version >= 5.3
+ * PHP version >= 5.4
  *
  * @category  PHP
  * @package   VenoFileManager
